@@ -1,0 +1,6 @@
+C:\Users\Mazen\Documents\Visual Studio 2012\Projects\Algoritmhs\QuickSlect\bin\Debug\QuickSlect.exe.config
+C:\Users\Mazen\Documents\Visual Studio 2012\Projects\Algoritmhs\QuickSlect\bin\Debug\QuickSlect.exe
+C:\Users\Mazen\Documents\Visual Studio 2012\Projects\Algoritmhs\QuickSlect\bin\Debug\QuickSlect.pdb
+C:\Users\Mazen\Documents\Visual Studio 2012\Projects\Algoritmhs\QuickSlect\obj\Debug\QuickSlect.exe
+C:\Users\Mazen\Documents\Visual Studio 2012\Projects\Algoritmhs\QuickSlect\obj\Debug\QuickSlect.pdb
+C:\Users\Mazen\Documents\Visual Studio 2012\Projects\Algoritmhs\QuickSlect\obj\Debug\QuickSlect.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Mazen\Documents\Visual Studio 2012\Projects\Algoritmhs\Algoritmhs\bin\Debug\Algoritmhs.exe.config
+C:\Users\Mazen\Documents\Visual Studio 2012\Projects\Algoritmhs\Algoritmhs\bin\Debug\Algoritmhs.exe
+C:\Users\Mazen\Documents\Visual Studio 2012\Projects\Algoritmhs\Algoritmhs\bin\Debug\Algoritmhs.pdb
+C:\Users\Mazen\Documents\Visual Studio 2012\Projects\Algoritmhs\Algoritmhs\obj\Debug\Algoritmhs.csprojResolveAssemblyReference.cache
+C:\Users\Mazen\Documents\Visual Studio 2012\Projects\Algoritmhs\Algoritmhs\obj\Debug\Algoritmhs.exe
+C:\Users\Mazen\Documents\Visual Studio 2012\Projects\Algoritmhs\Algoritmhs\obj\Debug\Algoritmhs.pdb

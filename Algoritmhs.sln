@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmhs", "Algoritmhs\Algoritmhs.csproj", "{30D0BE22-6380-4678-9351-F9C09ABA9968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quick sort", "Quick sort\Quick sort.csproj", "{8CD0E71C-62A1-4151-91F8-AB5B27C1E81C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSlect", "QuickSlect\QuickSlect.csproj", "{97EE2F5B-C8CF-4220-A1C1-22B0BC5FA4FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30D0BE22-6380-4678-9351-F9C09ABA9968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D0BE22-6380-4678-9351-F9C09ABA9968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D0BE22-6380-4678-9351-F9C09ABA9968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D0BE22-6380-4678-9351-F9C09ABA9968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CD0E71C-62A1-4151-91F8-AB5B27C1E81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD0E71C-62A1-4151-91F8-AB5B27C1E81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD0E71C-62A1-4151-91F8-AB5B27C1E81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD0E71C-62A1-4151-91F8-AB5B27C1E81C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97EE2F5B-C8CF-4220-A1C1-22B0BC5FA4FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97EE2F5B-C8CF-4220-A1C1-22B0BC5FA4FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97EE2F5B-C8CF-4220-A1C1-22B0BC5FA4FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97EE2F5B-C8CF-4220-A1C1-22B0BC5FA4FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
